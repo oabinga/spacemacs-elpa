@@ -1,0 +1,1 @@
+(define-package "birds-of-paradise-plus-theme" "20130420.529" "A brown/orange light-on-dark theme for Emacs 24 (deftheme)." 'nil :url "https://github.com/jimeh/birds-of-paradise-plus-theme.el" :keywords '("themes"))
